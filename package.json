@@ -1,0 +1,22 @@
+{
+  "name": "meows.js",
+  "version": "1.0.0",
+  "description": "Meeoooooww meowwwwww meeeeeeoooow meeeeoww",
+  "types": "typings/index.d.ts",
+  "keywords": [
+    "meow",
+    "language",
+    "cat",
+    "meows"
+  ],
+  "main": "index.js",
+  "repository": "https://github.com/purplnay/meows.js.git",
+  "author": "Nay & Odi <nay@purpltag.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jsdoc": "^3.6.3"
+  },
+  "scripts": {
+    "docs": "jsdoc -R README.md index.js -d docs"
+  }
+}
