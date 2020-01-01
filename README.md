@@ -2,6 +2,9 @@
 
 Meeoooooww meowwwwww meeeeeeoooow meeeeoww.
 
+```
+npm i --save meows.js
+```
 
 Meeeooowwwww meeoww meowwwwww meow meeow meeeeeeoooow mmeeeoow meeoooowwww meeoooooww meowwwwww meeeeowwww meeeooowwwww meeowww meeeooowwwww meeooow meeeeeeoooow meeeeowwww meow meeooow meeeoooow meow meeowww meeeooowww meeowww meeooow meeeooowwww meeowww meeeeooow meeeooowwww meowwwwww meow [meeoww meowwwwww meeeeeowwww meowwwwww](https://purplnay.github.io/meows.js/index.html)
 
