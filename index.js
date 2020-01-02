@@ -62,8 +62,13 @@ const decrypt = data => {
   }).join('');
 };
 
+const meows = {
+  encrypt,
+  decrypt
+};
+
 if (typeof window !== 'undefined') {
-  window.meows = { encrypt, decrypt };
+  window.meows = meows;
 } else {
-  module.exports = { encrypt, decrypt };
+  module.exports = meows;
 }
